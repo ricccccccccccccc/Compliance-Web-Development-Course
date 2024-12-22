@@ -1,6 +1,6 @@
 # Compliance-Web-Development-Course
 
-#Progress Update - #021DaysOfHTML
+#Progress Update - #01DaysOfHTML
 Day 1: Completed the HTML Basics lesson on freeCodeCamp.
 Day 2: Finished Responsive Web Design certification.
 
